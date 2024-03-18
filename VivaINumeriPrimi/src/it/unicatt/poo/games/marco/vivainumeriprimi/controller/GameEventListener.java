@@ -7,6 +7,11 @@ import it.unicatt.poo.games.marco.vivainumeriprimi.core.Game;
 import it.unicatt.poo.games.marco.vivainumeriprimi.graphics.GameBoardGUI;
 import it.unicatt.poo.games.marco.vivainumeriprimi.main.Main;
 
+/**
+ * Questa classe è l'unico EventListener del progetto.
+ * @author marco
+ *
+ */
 public class GameEventListener implements KeyListener {
 
 	@Override
