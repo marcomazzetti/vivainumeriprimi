@@ -4,7 +4,6 @@ import java.awt.Color;
 
 public class Casella {
 
-
 	int valore;
 	Color coloreCasella;
 
